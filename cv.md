@@ -24,3 +24,36 @@
 * Excel (formulas, summaries)
 * Figma, CorelDraw, PShop
 * Waterfall methodology, Agile (SCRUM framework)
+
+### Education
+2015-2019  
+BSEU, Faculty of Law, Jurisprudence  
+Legal Counsel
+
+### Work Experience
+
+#### ClickMedia LLC
+November 2020 - September 2021  
+Legal Advisor, Tender Specialist, Account Manager (PPC)
+* Monitoring of tender sites
+* Preparing documents for participation in bidding procedures
+* Preparing accounts and work on the exchange UpWork, account clients on the exchange
+* Setting tasks for the preparation of CP to the technical staff of the departments of paid advertising and search engine promotion
+
+#### Vashi Klienty LLC
+May 2021 - present    
+Web Project Manager
+* Communication with the customer, clarifying the customer's requirements for the product, drawing up a brief for the customer, Scoping
+* Estimating the time needed to develop the product and individual tasks, scheduling the project
+* Drawing up the requirements specification for technical specialists (copywriter, programmer, designer), User Stories
+* Setup and control of execution of tasks by technical specialists
+* Analyzing customer niche, Competitors Analysis, Offer development
+* Development of the website's structure &  prototyping in Figma
+* Testing / Verification of compliance with the company's standards for the final product
+* Reports preparation (inner and for the client) 
+* Website's audit (structure, UI/UX, selling power, technical errors)
+
+### Languages
+English - C1  
+Belarussian - Native  
+Russian - Native
