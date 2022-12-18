@@ -11,13 +11,19 @@
   </head>
 
   <body>
+    <div class="i'm broken">Пожалуйста, проверьте, мою работу завтра - я пытаюсь 🙏🙄 </div>
     <div class="wrapper">
     <header class="header"> </header>
     <main class="main"> </main>
     <footer class="footer"></footer>
     </div>
-    <img src="./assets/img/image.jpeg" alt="avatar" width="120" height="120"></p></figure>
-    
+    <img src="./assets/img/image.jpeg" alt="avatar" width="120" height="120"></p>
+    <nav class="nav">
+    <a href="#contacts" class="nav-link">Contacts</a>
+    <a href="#experience" class="nav-link">Work Experience</a>
+    <a href="#skills" class="nav-link">Skills</a>
+    <a href="#code" class="nav-link">Code</a>
+    </nav>
     <section> <h1>Front-End Trainee | Middle Project Manager</h1>
       <p>I am really into web development and building the full cycle of marketing system with the help of e-marketing tools. This is my 3rd attempt to learn Front-end. I have been working as a Web Project Manager at Digital marketing company for 1,5 year already.</p>
     </section>
@@ -25,9 +31,9 @@
   </header>
 
   <main>
-    <section><h2>Contacts</h2>
+    <section><h2 id="contacts">Contacts</h2>
     <p>Let’s discuss oportunities</p></section>
-    <p><a href="https://t.me/kutalie/"> <img src="/assets/svg/telegram.svg" alt="telegram icon" width="32" height="32"> t.me/kutalie </a></p>
+    <p><a href="https://t.me/kutalie/"> <img src="./assets/svg/telegram.svg" alt="telegram icon" width="32" height="32"> t.me/kutalie </a></p>
     <p><a href="https://mailto:natallia.kulazhenka@gmail.com"> <img src="./assets/svg/email.svg" alt="mail icon" width="32" height="32"> natallia.kulazhenka@gmail.com </a></p>
     <p><a href="https://github.com/natallia-kulazhenka"> <img src="./assets/svg/github.svg" alt="github icon" width="32" height="32"> github.com/natallia-kulazhenka </a></p>
   </section>
@@ -48,7 +54,7 @@
   </section>  
 
   <div class="column_right">
-    <section><h2>Skills</h2>
+    <section><h2 id="skills">Skills</h2>
     <ul>
       <li>Team work tools (CRM Bitrix24, AMO CRM, MIRO, Trello, GIT)</li>
       <li>SDLC</li>
@@ -61,7 +67,7 @@
     </ul>
   </section>
 
-  <section><h2>Code example</h2>
+  <section><h2 id="code">Code example</h2>
     <code>
         <pre>
         // Пример кода на JavaScript
@@ -72,7 +78,7 @@
       </code>
 
 
-  <section><h2>Work Experience</h2>
+  <section><h2 id="experience">Work Experience</h2>
     <p><h3>Vashi Klienty LLC</h3></p>
     <p>May 2021 - present</p>
     <p>Web Project Manager</p>
@@ -102,9 +108,9 @@
 </main>
 
 <footer>
- <p><a href="https://github.com/natallia-kulazhenka"> <img src="./assets/svg/github.svg" alt="github icon" width="32" height="32"> github.com/natallia-kulazhenka </a></p>
- <p>2022</p>
- <p><a href="https://rs.school/js/"> <img src="https://rs.school/images/rs_school_js.svg" alt="rss school" width="100" height="50"> </a></p>
+ <div class="footer_inner"><a href="https://github.com/natallia-kulazhenka"> <img src="./assets/svg/github.svg" alt="github icon" width="32" height="32"> github.com/natallia-kulazhenka </a></div>
+ <div class="footer_inner"> 2022</div>
+ <div class="footer_inner"><a href="https://rs.school/js/"> <img src="https://rs.school/images/rs_school_js.svg" alt="rss school" width="100" height="50"> </a></div>
   
 </footer>
   </body>
