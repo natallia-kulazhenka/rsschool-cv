@@ -38,4 +38,6 @@ h1 {
     justify-content: space-between;
     align-items: center;
     color: rgb(0, 28, 58);
+    padding: 0 20px;
+    line-height: 50px;
   }
