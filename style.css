@@ -37,15 +37,12 @@ h1 {
     color: rgb(0, 28, 58);
   }
 .intro {
-  width: 900px;
+  width: 750px;
 }
   .footerIn {
     display: inline-block;
    }
 
-footer{
-text-align: justify;
-}
 
 nav {
   text-decoration: none;
